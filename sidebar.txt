@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ngh:home|Door43 (ngh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ngh|d43-ngh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ngh/archive/master.zip|d43-ngh.zip]]
+
+**Recent Changes**
+{{changes>ns = ngh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ngh|Ethnologue data]]
+
